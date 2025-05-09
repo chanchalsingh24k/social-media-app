@@ -72,22 +72,12 @@ The project structure follows the standard React application structure:
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or would like to add new features, please open an issue or submit a pull request on the [GitHub repository](https://github.com/riteshk-007/Social-media-react-app).
+Contributions are welcome! If you find any issues or would like to add new features, please open an issue or submit a pull request on the [GitHub repository](https://github.com/chanchalsingh24k/social-media-app.git).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-![image](https://github.com/riteshk-007/Social-media-react-app/assets/135107962/965aade9-8380-4e70-84e7-9588ad9aea8c)
 
 ## Acknowledgements
 
 - The project was inspired by various social media platforms.
 - Special thanks to the creators of the libraries and frameworks used in this project.
 
-## Contact
 
-If you have any questions or suggestions, feel free to reach out to the project owner:
-
-- Ritesh Kumar
-- GitHub: [@riteshk-007](https://github.com/riteshk-007)
-- Email: rk0001945@gmail.com, codeshorts007@gmail.com
